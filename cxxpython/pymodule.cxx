@@ -1,7 +1,6 @@
 #include <Python.h>
 #include <optional>
 #include <string_view>
-#include <format>
 
 static constexpr auto module_doc = "Python module to search string in a file";
 
